@@ -15,5 +15,6 @@ Here are some ideas to get you started:
 - 🔭 Hoje, eu trabalho com Laravel e Flutter.
 - 🌱 Estou me aprofundando em Laravel e PHP.
 
-[![Anurag's GitHub stats](https://github-readme-stats-rho-lemon-57.vercel.app/api?username=gbdiniz)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats-rho-lemon-57.vercel.app/api/top-langs/?username=gbdiniz&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
+<img alt="Meus Status" src="https://github-readme-stats-rho-lemon-57.vercel.app/api?username=gbdiniz"/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=pie)](https://github.com/anuraghazra/github-readme-stats)
