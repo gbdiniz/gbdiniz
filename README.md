@@ -15,7 +15,9 @@ Here are some ideas to get you started:
 - 🌱 Estou me aprofundando em Laravel e PHP. -->
 
 <div style="display: flex; flex-direction: row;">
-  <img height="350em" alt="Meus Status" src="metrics/header.svg"/>
+  <img height="300em" alt="Meus Status" src="metrics/header.svg"/>
+
+  <img height="180em" alt="Meus Status" src="metrics/header.svg"/>
 
   <!-- <img height="180em" alt="Principais Linguagens" src="metrics/languages.svg"/> -->
 </div>
