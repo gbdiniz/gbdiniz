@@ -14,10 +14,10 @@ Here are some ideas to get you started:
 <!-- - 🔭 Hoje, eu trabalho com Laravel e Flutter.
 - 🌱 Estou me aprofundando em Laravel e PHP. -->
 
-<div style="display: flex; flex-direction: row;">
+<div style="display: flex; align-items: start; flex-direction: row;">
   <img height="300em" alt="Meus Status" src="metrics/header.svg"/>
 
-  <img height="180em" alt="Meus Status" src="metrics/header.svg"/>
+  <img height="200em" alt="Meus Status" src="metrics/isocalendar.svg"/>
 
   <!-- <img height="180em" alt="Principais Linguagens" src="metrics/languages.svg"/> -->
 </div>
